@@ -49,7 +49,7 @@ main {
         text-align: center;
         margin: 0 auto;
         font-size: 1rem;
-        margin-bottom: 3rem;
+        margin-bottom: 5rem;
     }
 
    
@@ -77,8 +77,8 @@ main {
 
         .card {
             background-color: var(--Very-Light-Gray);
-            width: 16rem;
-            height: 10rem;
+            width: 17rem;
+            height: 13rem;
             margin: 0 auto;
             padding: 1rem;
             border-radius: 5px;
@@ -88,7 +88,7 @@ main {
             grid-template-rows: repeat(2fr, auto);
             gap: 0;
 
-            h3 {
+            h2 {
                 font-weight: 600;
                 grid-column: 1;
                 grid-row: 1;
@@ -154,7 +154,7 @@ footer {
     }
 
     .intro-paragraph {
-        width: 33rem
+        width: 33rem;
     }
 
     .supervisor {

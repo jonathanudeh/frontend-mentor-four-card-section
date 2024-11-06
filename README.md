@@ -7,7 +7,7 @@ This project was all about designing a page consisting of four cards that looks 
 ![Project screenshot](/design/desktop-design.jpg)
 
 ## Links
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://jonathanudeh.github.io/frontend-mentor-four-card-section/)
 
 ## My-process
 
@@ -24,9 +24,9 @@ I learnt alot about responsiveness. Recreating the desktop view was a real tough
 Like I always say, I will be using more of css grid layout as well as flexbox so as to get really familiarized with them both.
 
 ### Author
-Twitter - [jaywritescodes](https://x.com/jaywritescodes)
-LinkedIn - [jonathanudeh](www.linkedin.com/in/jonathan-udeh-a86766329)
-Frontend Mentor - [jonathanudeh](https://www.frontendmentor.io/profile/jonathanudeh)
+- Twitter - [jaywritescodes](https://x.com/jaywritescodes)
+- LinkedIn - [jonathanudeh](www.linkedin.com/in/jonathan-udeh-a86766329)
+- Frontend Mentor - [jonathanudeh](https://www.frontendmentor.io/profile/jonathanudeh)
 
 ## Acknoledgement
 Frontend Mentor: Thanks for providing the design and requirements for this project.
